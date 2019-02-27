@@ -1,0 +1,51 @@
+.imgcontainer {
+  text-align: left;
+  margin: 24px 0 12px 0;
+  margin-top:40px;
+  margin-left:-20px;
+}
+#header > ol li{
+			color:black;
+			font-style:normal;
+			font-weight:bold;
+			display:inline-block;
+			margin:10px;
+		}
+		
+		#header > ol li:hover{
+			color:red;
+		}
+		#header{
+			text-align:right;
+			float:right;
+		}
+.page-title{
+	    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+	
+	.page-title{
+		padding:80px 0px;	
+	}
+	.mid > ul li{
+      color:black;
+      font-style:normal;
+      font-weight:bold;
+      display:inline-block;
+      margin:10px;
+    }
+    
+    #header > ol li:hover{
+      color:red;
+    }
+    #header{
+      text-align:right;
+      float:right;
+    }
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
